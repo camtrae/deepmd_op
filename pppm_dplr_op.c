@@ -14,12 +14,12 @@
 // ============================================================================
 // 配置参数
 // ============================================================================
-#define ORDER 7
-#define NLOWER (-3)
-#define NUPPER 3
-// #define ORDER 15
-// #define NLOWER (-7)
-// #define NUPPER 7
+// #define ORDER 7
+// #define NLOWER (-3)
+// #define NUPPER 3
+#define ORDER 15
+#define NLOWER (-7)
+#define NUPPER 7
 
 #define GRID_SIZE 64
 #define MAX_PARTICLES 10000
